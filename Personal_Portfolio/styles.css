@@ -1,0 +1,9 @@
+#nav-table{
+    width: 100%;
+    
+}
+
+#nav-table, td{
+    border: solid black;
+    border-collapse: collapse;
+}
