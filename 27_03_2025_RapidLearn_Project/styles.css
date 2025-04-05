@@ -1,0 +1,92 @@
+#body-div{
+    /*border: 3px solid black;*/
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: antiquewhite;
+}
+
+#title-div{
+    /*border: 3px solid black;*/
+    padding: 10px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: bold;
+    
+}
+
+#nav-div{
+    /*border: 3px solid black;*/
+    padding: 10px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: large;
+    font-weight: bold;
+    
+}
+
+#nav-item{
+    padding-left: 10px;
+    padding-right: 10px;
+    align-items: center;
+    color: darkblue;
+}
+
+#main-div{
+    /*border: 3px solid black;*/
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+
+}
+
+#img-div{
+    /*border: 3px solid black;*/
+    margin: 10px;
+    padding: 10px;
+}
+
+#profile-div{
+    /*border: 3px solid black;*/
+    margin: 10px;
+    padding: 10px;
+    background-color: whitesmoke;
+    
+}
+
+#main-projects-div{
+    /*border: 3px solid black;*/
+    margin: 10px;
+    padding: 10px;
+    align-items: center;
+}
+
+#projects-div{
+    /*border: 3px solid black;*/
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+
+#projects{
+    /*border: 3px solid black;*/
+    margin: 10px;
+    padding: 10px;
+    background-color: aqua;
+}
+
+#footer-div{
+    justify-content: space-evenly;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 10px;
+    background-color: rgb(15, 142, 184);
+    color: white;
+    display: flex;
+}

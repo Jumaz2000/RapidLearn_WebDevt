@@ -1,0 +1,45 @@
+#container{
+    display: grid;
+    border: 3px solid black;
+    
+}
+
+#grid-items{
+    border: 2px solid black;
+    margin: 20px;
+    grid-template-columns: 120px 120px 120px 120px;
+}
+
+#body-div{
+    border: 3px solid;
+    margin: 10px;
+    border-color: aqua;
+    display: grid;
+    align-items: center;
+    grid-template-columns: 200px 200px 200px 200px;
+    justify-content: space-evenly;
+}
+
+#navs{
+    border: 3px solid black;
+    margin: 20px;
+    
+}
+
+#header-div{
+    border: 3px solid;
+    margin: 10px;
+    border-color: aqua;
+    display: grid;
+    align-items: center;
+    grid-template-columns: 200px 200px 200px 200px;
+    justify-content: space-evenly;
+    
+
+}
+
+#footer-div{
+    border: 3px solid;
+    margin: 10px;
+    border-color: aqua;
+}
